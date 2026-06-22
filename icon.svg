@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256">
+  <!-- Background circle -->
+  <circle cx="128" cy="128" r="120" fill="#e3f2fd" stroke="#1976d2" stroke-width="2"/>
+  
+  <!-- Water waves at bottom -->
+  <path d="M 20 160 Q 35 150, 50 160 T 90 160 T 130 160 T 170 160 T 210 160 T 250 160 L 250 180 Q 235 170, 220 180 T 180 180 T 140 180 T 100 180 T 60 180 T 20 180 Z" 
+        fill="#64b5f6" opacity="0.8"/>
+  
+  <!-- Water drops splashing -->
+  <circle cx="80" cy="100" r="12" fill="#42a5f5" opacity="0.9"/>
+  <circle cx="130" cy="85" r="10" fill="#42a5f5" opacity="0.85"/>
+  <circle cx="180" cy="105" r="11" fill="#42a5f5" opacity="0.9"/>
+  
+  <!-- Splash ripples -->
+  <circle cx="128" cy="120" r="20" fill="none" stroke="#1976d2" stroke-width="1.5" opacity="0.6"/>
+  <circle cx="128" cy="120" r="35" fill="none" stroke="#1976d2" stroke-width="1" opacity="0.4"/>
+  <circle cx="128" cy="120" r="50" fill="none" stroke="#1976d2" stroke-width="0.8" opacity="0.2"/>
+  
+  <!-- Small water droplets -->
+  <circle cx="60" cy="75" r="4" fill="#2196f3" opacity="0.7"/>
+  <circle cx="200" cy="70" r="5" fill="#2196f3" opacity="0.7"/>
+  <circle cx="100" cy="60" r="3" fill="#2196f3" opacity="0.7"/>
+  <circle cx="170" cy="65" r="4" fill="#2196f3" opacity="0.7"/>
+</svg>
