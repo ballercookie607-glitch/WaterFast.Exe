@@ -8,6 +8,16 @@ A fun desktop application that creates water splashing effects on your screen!
 ⚠️ **Safety Warnings** - Double confirmation dialogs before launching
 💫 **Random Splashes** - Each splash appears at random locations with random sizes
 
+## Downloads
+
+### Latest Release
+- **[Download WaterFast.Exe (Windows)](https://github.com/ballercookie607-glitch/WaterFast.Exe/releases)** - Standalone executable
+- **[Download Source Code](https://github.com/ballercookie607-glitch/WaterFast.Exe/archive/refs/heads/main.zip)** - Python source files
+
+### Requirements
+- Windows 7 or later
+- No installation needed - just run the .exe file!
+
 ## How to Use
 
 ### Option 1: Run the Python Script
